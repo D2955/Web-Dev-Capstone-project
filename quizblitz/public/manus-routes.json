@@ -1,0 +1,10 @@
+{
+  "routes": [
+    { "path": "/", "title": "QuizBlitz Overview" },
+    { "path": "/quizzes", "title": "Quiz Library" },
+    { "path": "/live", "title": "Live Quiz Room" },
+    { "path": "/reports", "title": "Learning Reports" },
+    { "path": "/students", "title": "Students" },
+    { "path": "/settings", "title": "Settings" }
+  ]
+}
